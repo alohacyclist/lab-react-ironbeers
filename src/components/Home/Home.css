@@ -1,0 +1,13 @@
+.container_start {
+    display: flex;
+    flex-direction: column;
+}
+.start_wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.section_start {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+}
